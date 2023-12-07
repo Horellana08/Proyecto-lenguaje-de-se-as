@@ -1,0 +1,7 @@
+El Proyecto de Lenguaje de Señas con Python es una iniciativa innovadora que utiliza la programación en Python para desarrollar un sistema de reconocimiento y traducción de lenguaje de señas. Este proyecto tiene como objetivo principal facilitar la comunicación entre personas con discapacidades auditivas y aquellas que no utilizan el lenguaje de señas.
+
+El corazón del proyecto radica en la implementación de algoritmos de visión por computadora que permiten capturar y analizar los gestos y movimientos asociados con el lenguaje de señas. Utilizando bibliotecas y herramientas especializadas en Python, el sistema puede interpretar estos gestos y traducirlos en tiempo real a texto o voz, posibilitando así una comunicación fluida entre personas con habilidades lingüísticas diferentes.
+
+Además del componente de reconocimiento de gestos, el proyecto también puede incluir una interfaz de usuario amigable desarrollada con bibliotecas gráficas en Python, lo que facilita su acceso y uso. Los usuarios pueden interactuar con el sistema de manera intuitiva, permitiendo una experiencia cómoda y efectiva.
+
+Este proyecto no solo representa una aplicación práctica de la programación en Python, sino que también aborda una necesidad importante en la inclusión y accesibilidad. Al proporcionar una herramienta que facilita la comunicación entre personas con discapacidades auditivas y aquellas que no conocen el lenguaje de señas, el proyecto contribuye significativamente a la creación de un entorno más inclusivo y accesible para todos.
